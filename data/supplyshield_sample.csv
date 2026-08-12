@@ -1,0 +1,4 @@
+product_code,product_name,supplier,seller,declared_price,market_price,shipment_anomaly,seller_history,metadata_quality,supplier_anomaly
+SKU-1001,Medical Device A,Supplier Alpha,Seller One,95,100,15,82,90,10
+SKU-1002,Consumer Product B,Supplier Beta,Seller Two,35,100,60,48,55,70
+SKU-1003,Component C,Supplier Gamma,Seller Three,98,100,10,92,95,5
